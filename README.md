@@ -26,7 +26,7 @@
   
 <img src="https://img.shields.io/badge/html5-E34F26?style=plastic-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-1572B6?style=plastic-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/scss-F24E1E?style=plastic-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/scss-CC6699?style=plastic-square&logo=Sass&logoColor=white" />
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=plastic-square&logo=Bootstrap&logoColor=white"/> 
 <br>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic-square&logo=JSS&logoColor=white"/>
@@ -36,18 +36,17 @@
 <br>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=plastic-square&logo=Redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/styled-components-DB7093?style=plastic-square&logo=styled-components&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-1572B6?style=plastic-square&logo=Next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/typescript-1976D2?style=plastic-square&logo=TypeScript&logoColor=white"/>   
+<img src="https://img.shields.io/badge/Next.js-000000?style=plastic-square&logo=Next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/typescript-3178C6?style=plastic-square&logo=TypeScript&logoColor=white"/>   
 <br>
 <br> 
  
 <img src="https://img.shields.io/badge/python-3776AB?style=plastic-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/java-C71A36?style=plastic-square&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring-003300?style=plastic-square&logo=Spring&logoColor=lightgreen"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic-square&logo=Spring&logoColor=lightgreen"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic-square&logo=Spring Boot&logoColor=white" />
 <br> 
-<img src="https://img.shields.io/badge/Mysql-007396?style=plastic-square&logo=MySql&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-4479A1?style=plastic-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic-square&logo=MySql&logoColor=white"/>
 <img src="https://img.shields.io/badge/git-F05032?style=plastic-square&logo=git&logoColor=white" />
 <div>
   
@@ -65,6 +64,7 @@
 <br> 
 <img src="https://img.shields.io/badge/Notion-000000?style=plastic-square&logo=Notion&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic-square&logo=Figma&logoColor=white">
+<img src="https://img.shields.io/badge/Google Sheets-34A853?style=plastic-square&logo=Google Sheets&logoColor=white">
 <br>
 </div>
 
