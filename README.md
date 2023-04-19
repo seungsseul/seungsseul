@@ -2,10 +2,10 @@
 
 ### ✉️ Contact me : swyh0625@naver.com
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2sseul&count_bg=%23FFDFEA&title_bg=%23B6C1FF&icon=googlefit.svg&icon_color=%23FFDFEA&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <a href="https://www.instagram.com/thjijth" target="_blank"><img src="https://img.shields.io/badge/Instagram-B6C1FF?style=plastic-square&logo=Instagram&logoColor=black"/></a>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseungwan97&count_bg=%23FFC744&title_bg=%23FF9A35&icon=googlefit.svg&icon_color=%23FFC744&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <a href="https://www.instagram.com/naw___s.k/" target="_blank"><img src="https://img.shields.io/badge/Instagram-B6C1FF?style=plastic-square&logo=Instagram&logoColor=FFF"/></a>
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=younhaholic97)](https://solved.ac/백준아이디/) [![seungwan97's github stats](https://github-readme-stats.vercel.app/api?username=seungwan97&count_private=true&bg_color=30,FFC744,FF9A35&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungwan97&bg_color=30,FFC744,FF9A35&layout=compact&title_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=younhaholic97)](https://solved.ac/백준아이디/) [![seungwan97's github stats](https://github-readme-stats.vercel.app/api?username=seungwan97&count_private=true&bg_color=30,FFC744,FF9A35&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungwan97&bg_color=30,FFC944,FF9A35&layout=compact&title_color=FFF&&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </p>
