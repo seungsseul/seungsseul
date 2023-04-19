@@ -1,5 +1,6 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Seungwan&fontSize=90)
 
+<a href="https://github.com/seungwan97"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=seungwan97&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="seungwan97's github stats" /></a>
 <!--
 **seungwan97/seungwan97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
