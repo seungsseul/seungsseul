@@ -42,7 +42,7 @@
 <br> 
  
 <img src="https://img.shields.io/badge/python-3776AB?style=plastic-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/java-C71A36?style=plastic-square&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/java-C71A36?style=plastic-square&logo=OpenJDK&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic-square&logo=Spring&logoColor=lightgreen"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic-square&logo=Spring Boot&logoColor=white" />
 <br> 
