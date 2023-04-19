@@ -29,10 +29,10 @@
 <img src="https://img.shields.io/badge/scss-CC6699?style=plastic-square&logo=Sass&logoColor=white" />
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=plastic-square&logo=Bootstrap&logoColor=white"/> 
 <br>
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic-square&logo=JavaScript&logoColor=white&textColor=white"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/node.js-339933?style=plastic-square&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic-square&logo=Vue.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=plastic-square&logo=React&logoColor=white&textColor=white"/>
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=plastic-square&logo=React&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=plastic-square&logo=Redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/styled-components-DB7093?style=plastic-square&logo=styled-components&logoColor=white" />
