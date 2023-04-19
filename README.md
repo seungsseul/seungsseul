@@ -36,6 +36,8 @@
 <img src="https://img.shields.io/badge/TypeScript-1976D2?style=plastic-square&logo=TypeScript&logoColor=white"/>   
 <img src="https://img.shields.io/badge/React-61DAFB?style=plastic-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=plastic-square&logo=Redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-1572B6?style=plastic-square&logo=Next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badgestyled-components-7952B3?style=plastic-square&logo=styled-components&logoColor=white"/>
 <br> 
 <img src="https://img.shields.io/badge/Spring-003300?style=plastic-square&logo=Spring&logoColor=lightgreen"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic-square&logo=Spring Boot&logoColor=white">
@@ -70,5 +72,5 @@
 <br>
   
 </p>
-
+<hr/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungwan97&layout=compact&theme=gruvbox)
