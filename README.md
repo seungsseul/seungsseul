@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Seungwan&fontSize=90)
 
-### ✉️ contact me : swyh0625@naver.com
+### ✉️ Contact me : swyh0625@naver.com
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseungwan97%2Fhit-counter&count_bg=%233DC8AF&title_bg=%23555555&icon=tencentqq.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -29,10 +29,10 @@
 <img src="https://img.shields.io/badge/scss-CC6699?style=plastic-square&logo=Sass&logoColor=white" />
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=plastic-square&logo=Bootstrap&logoColor=white"/> 
 <br>
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic-square&logo=JavaScript&logoColor=white&fontColor=white"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic-square&logo=JavaScript&logoColor=white&color=white"/>
 <img src="https://img.shields.io/badge/node.js-339933?style=plastic-square&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic-square&logo=Vue.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=plastic-square&logo=React&logoColor=white&fontColor=white"/>
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=plastic-square&logo=React&logoColor=white&color=white"/>
 <br>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=plastic-square&logo=Redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/styled-components-DB7093?style=plastic-square&logo=styled-components&logoColor=white" />
