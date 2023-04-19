@@ -33,6 +33,9 @@
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic-square&logo=JSS&logoColor=white"/>
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=plastic-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic-square&logo=Vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-1976D2?style=plastic-square&logo=TypeScript&logoColor=white"/>   
+<img src="https://img.shields.io/badge/React-61DAFB?style=plastic-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=plastic-square&logo=Redux&logoColor=white"/>
 <br> 
 <img src="https://img.shields.io/badge/Spring-003300?style=plastic-square&logo=Spring&logoColor=lightgreen"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic-square&logo=Spring Boot&logoColor=white">
