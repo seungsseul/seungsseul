@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Seungwan&fontSize=90)
 
-### 👋contact me : swyh0625@naver.com
+### ✉️ contact me : swyh0625@naver.com
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseungwan97%2Fhit-counter&count_bg=%233DC8AF&title_bg=%23555555&icon=tencentqq.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -51,7 +51,7 @@
 <br>
 
 <div align = "left" style="font-size:15px">
-  <h1>👋 Co-work tool </h1>
+  <h1> 👋 Co-work tool </h1>
 
 <img src="https://img.shields.io/badge/Jira-0052CC?style=plastic-square&logo=Jira Software&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=plastic-square&logo=GitHub&logoColor=white">
