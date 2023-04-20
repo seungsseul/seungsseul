@@ -13,7 +13,7 @@
 
 
 <div align = "left" style="font-size:15px;color:#3a3a3a">
-  <h4> ⌨️ My Tech Stack </h4>
+  <h3> ⌨️ My Tech Stack </h3>
   
 <img src="https://img.shields.io/badge/html5-E34F26?style=plastic-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-1572B6?style=plastic-square&logo=css3&logoColor=white" />
@@ -46,7 +46,7 @@
 <br>
 
 <div align = "left" style="font-size:15px;color:#3a3a3a">
-  <h4> 👋 Co-work tool </h4>
+  <h3> 👋 Co-work Tool </h3>
 
 <img src="https://img.shields.io/badge/Jira-0052CC?style=plastic-square&logo=Jira Software&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=plastic-square&logo=GitHub&logoColor=white">
