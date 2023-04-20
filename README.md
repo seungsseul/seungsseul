@@ -9,9 +9,13 @@
 
 </p>
 
+<div align = "left" style="font-size:12px">
+  <h3> Experience </h3>
+  
+  - 🎓 JEJU NATIONAL UNIVERSITY, Tourism Management (2016.03 ~ 2022.08)
+  - 💻 SAMSUNG SW ACADEMY 8th (2022.07 ~ )
+</div>
 <br>
-
-
 <div align = "left" style="font-size:15px;color:#3a3a3a">
   <h3> ⌨️ My Tech Stack </h3>
   
