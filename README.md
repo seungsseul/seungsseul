@@ -9,7 +9,7 @@
 
 </p>
 
-[https://cobby-play.com/api/user/badge/banbbang]
+[(https://cobby-play.com/api/user/badge/banbbang)]
 <br/>
 <div align = "left" style="font-size:15px">
   <h3> 📝 Experience </h3>
