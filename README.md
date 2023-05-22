@@ -5,7 +5,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseungwan97&count_bg=%23FFC744&title_bg=%23FF9A35&icon=googlefit.svg&icon_color=%23fff&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <a href="https://www.instagram.com/naw___s.k/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF9A35?style=plastic-square&logo=Instagram&logoColor=FFF&textColor=FFF"/></a>
 
  [![seungwan97's github stats](https://github-readme-stats.vercel.app/api?username=seungwan97&count_private=true&bg_color=30,FFC744,FF9A35&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungwan97&bg_color=30,FFC944,FF9A35&layout=compact&title_color=FFF&&text_color=fff)](https://github.com/anuraghazra/github-readme-stats) <br><br> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=younhaholic97)](https://solved.ac/백준아이디/) <br><br>
- ![COBBY_BADGE](https://cobby-play.com/api/user/badge/seungwan97)
+ ![COBBY_BADGE](https://cobby-play.com/api/user/badge/seungwan97?theme=3)
 
 </p>
 
