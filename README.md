@@ -13,8 +13,10 @@
 <div align = "left" style="font-size:15px">
   <h3> 📝 Experience </h3>
   
-  - 🎓 JEJU NATIONAL UNIVERSITY, Tourism Management (2016.03 ~ 2022.08)
-  - 💻 SAMSUNG SW ACADEMY 8th (2022.07 ~ 2023.06)
+  - 🎓 JEJU NATIONAL UNIVERSITY, Tourism Management (2016.03. ~ 2022.08.)
+  - 💻 SAMSUNG SW ACADEMY 8th (2022.07. ~ 2023.06.
+  - 💼 Statistics Korea(2024.06. ~)
+  
 </div>
 <br>
 <div align = "left" style="font-size:15px;color:#3a3a3a">
