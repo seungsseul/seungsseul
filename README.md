@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Seungwan&fontSize=90)
 
-### ✉️ Contact me : younhaholic97@gmail.com
+### ✉️ Contact me : swyh0625@naver.com
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseungsseul&count_bg=%23FFC744&title_bg=%23FF9A35&icon=googlefit.svg&icon_color=%23fff&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <a href="https://www.instagram.com/naw___s.k/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF9A35?style=plastic-square&logo=Instagram&logoColor=FFF&textColor=FFF"/></a>
 
