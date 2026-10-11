@@ -6,6 +6,14 @@
   height="300"
 />
 </a>
+
+<a href="https://fortune-commit.vercel.app/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://fortune-commit.vercel.app/api?user=YOUR_GITHUB_ID&theme=dark">
+    <img src="https://fortune-commit.vercel.app/api?user=YOUR_GITHUB_ID&theme=light" alt="오늘의 운세">
+  </picture>
+</a>
+
 ### ✉️ Contact me : swyh0625@naver.com
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseungsseul&count_bg=%23FFC744&title_bg=%23FF9A35&icon=googlefit.svg&icon_color=%23fff&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <a href="https://www.instagram.com/naw___s.k/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF9A35?style=plastic-square&logo=Instagram&logoColor=FFF&textColor=FFF"/></a>
